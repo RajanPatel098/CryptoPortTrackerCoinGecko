@@ -1,3 +1,5 @@
 # CryptoPortTrackerCoinGecko
 
-CoinGecko API
+Used CoinGecko API, ReactJS Framework, and CSS.
+
+
