@@ -7,7 +7,8 @@ Used CoinGecko API, ReactJS Framework, and CSS.
  
 ### CoinGecko Free API limited to 100 requests -- if errors persist just wait!
 
-
+### Currently, only chose to show the top 100 coins -- this can increase or decrease at any time! Each page will remain showing 10 coins, the number of pages will vary. 
+### Plan on implementing an user database that will allow users to signup and record their purchases and give real-time insights on their Crypto portfolio! 
 
 ## To Run
 ### 1. Copy the GitHub repo
